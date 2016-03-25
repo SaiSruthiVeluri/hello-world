@@ -1,3 +1,3 @@
 # hello-world
 Hello World! 
-This is a flower here, blosomming under the shining sun.
+This is a flower here, blossoming under the shining sun.
