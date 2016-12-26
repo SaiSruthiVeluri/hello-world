@@ -1,3 +1,3 @@
 # hello-world
 Hello World! 
-This is a flower here, blossoming under the shining sun.
+This is my first Repository
